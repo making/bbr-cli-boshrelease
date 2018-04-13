@@ -1,1 +1,5 @@
-name: bbr-cli-boshrelease
+name: bbr-cli
+blobstore:
+  provider: local
+  options:
+    blobstore_path: /tmp/bbr-cli
