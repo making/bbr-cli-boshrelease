@@ -1,0 +1,9 @@
+---
+name: bbr-cli
+
+templates: {}
+
+packages:
+- bbr-cli
+
+properties: {}

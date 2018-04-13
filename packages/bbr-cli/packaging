@@ -1,0 +1,6 @@
+set -e
+
+mkdir -p ${BOSH_INSTALL_TARGET}/bin
+tar xf bbr/bbr-1.2.1.tar
+cp releases/bbr ${BOSH_INSTALL_TARGET}/bin/bbr
+chmod 755 ${BOSH_INSTALL_TARGET}/bin/bbr
