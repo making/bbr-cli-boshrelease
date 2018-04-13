@@ -1,0 +1,15 @@
+name: bbr-cli
+version: 0.0.1
+commit_hash: 823f668
+uncommitted_changes: false
+jobs:
+- name: bbr-cli
+  version: 400837076fe75ad7bd5f7d203e4966ce69a90edc
+  fingerprint: 400837076fe75ad7bd5f7d203e4966ce69a90edc
+  sha1: 516aa03402826abea4624084c39b9c0df03bcd47
+packages:
+- name: bbr-cli
+  version: eeae78d0e1fcb1667198fa4f0d7f1d7021fb7b3b
+  fingerprint: eeae78d0e1fcb1667198fa4f0d7f1d7021fb7b3b
+  sha1: 60fe34604a074ee21da56153be07f0404e3a0ead
+  dependencies: []
